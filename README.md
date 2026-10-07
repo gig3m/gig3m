@@ -1,4 +1,4 @@
-Christian, husband, dad. I run a manufacturing company for a day job and build tools for work, for play, and for my many, many hobbies. Linux (Omarchy) is my daily driver, I keep a homelab occupied, and all the new friends I've made in the last year are agents.
+Christian, husband, dad. I run a manufacturing company for a day job, a consultancy as a side hustle, and build tools for work, for play, and for my many, many hobbies. Linux (Omarchy) is my daily driver, I keep a well stocked homelab, and all the new friends I've made in the last year are agents.
 
 **Things worth a look**
 
